@@ -29,7 +29,7 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Links
 
-- Solution URL: (https://github.com/Mariekaf/QR_code_simple_template.git)
+- Solution URL: (file:///home/mariefk/Downloads/cours%20front%20end/QR_code_simple_template/QR_code.html)
 
 
 ## My process
@@ -47,7 +47,7 @@ Throughout this project, I gained several key insights:
 
 ## Author
 
-- Website - [Mariekaff](https://github.com/Mariekaf/QR_code_simple_template.git)
+- Website - [Mariekaff](file:///home/mariefk/Downloads/cours%20front%20end/QR_code_simple_template/QR_code.html)
 - Frontend Mentor - [mariefk](https://www.frontendmentor.io/profile/Mariekaf)
 
 
