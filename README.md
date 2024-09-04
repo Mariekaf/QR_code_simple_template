@@ -13,7 +13,7 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -23,13 +23,13 @@ This report provides an overview of a simple web page created using HTML and CSS
 
 ### Screenshot
 
-![](./design/desktop_design.png)
+![](./design/Desktop_design.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mariekaf/QR_code_simple_template.git)
+- Solution URL: (https://github.com/Mariekaf/QR_code_simple_template.git)
 
 
 ## My process
@@ -44,6 +44,7 @@ Throughout this project, I gained several key insights:
 - **HTML Structure**: Understanding the importance of semantic HTML and how to use various tags effectively.
 - **CSS Styling**: Learning to apply styles to elements and the use of classes and IDs to target specific elements.
 - **Debugging**: Identifying and fixing layout issues, which improved my problem-solving skills.
+
 ## Author
 
 - Website - [Mariekaff](https://github.com/Mariekaf/QR_code_simple_template.git)
